@@ -34,6 +34,7 @@ Whether you need an enterprise connected planning solution or lightweight geospa
 - [🛠️ Open-Source GitHub Projects](#️-open-source-github-projects)
 - [📐 Frameworks & Integration Strategies](#-frameworks--integration-strategies)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚖️ Disclaimer & Data Governance](#️-disclaimer--data-governance)
 - [⭐ Star History](#-star-history)
 
@@ -98,6 +99,21 @@ Contributions are welcome! Please follow these steps:
 3. Add your tool to the appropriate table maintaining **descending sort order** (Valuation for SaaS, Star Count for Open-Source).
 4. Ensure factual descriptions, official links, and clean markdown formatting.
 5. Submit a **Pull Request**!
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting this repository! If you find this curated ecosystem list helpful for your sales operations, territory modeling, or RevOps research, please consider supporting the project:
+
+- **⭐ Star this repository** to help others discover it.
+- **🍴 Fork & Contribute** to expand open-source sales planning coverage.
+- **📢 Share** with your network, RevOps teams, and sales engineers.
+- **☕ Buy Me a Coffee / Sponsor**: Support ongoing maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+<p>
+  <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor"/></a>
+</p>
 
 ---
 
