@@ -2,7 +2,7 @@
 
 <p center="align">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Sales-Territory-Quota-Planning/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Territory-Quota-Planning?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Territory-Quota-Planning/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Territory-Quota-Planning?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Sales-Territory-Quota-Planning?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Territory-Quota-Planning/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Territory-Quota-Planning/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Sales-Territory-Quota-Planning?style=flat-square" alt="Last Commit"/></a>
@@ -64,9 +64,9 @@ Below is a curated comparison of leading SaaS products for sales territory mappi
 
 ## 🛠️ Open-Source GitHub Projects
 
-Below are open-source repositories offering geospatial territory management, quota calculators, and routing engines, sorted by **GitHub Star Count (Descending)**:
+Below are open-source repositories offering geospatial territory management, quota calculators, and routing engines, sorted by **GitHub Stars_Count (Descending)**:
 
-| Repository Name & Link | Stars Badge ⭐ | License 📜 | Primary Features & Best For 💡 |
+| Repository Name & Link | Stars_Badge ⭐ | License 📜 | Primary Features & Best For 💡 |
 | :--- | :--- | :--- | :--- |
 | **[Vtiger CRM](https://github.com/vtiger-crm/vtigercrm)** | [![Stars](https://img.shields.io/github/stars/vtiger-crm/vtigercrm?style=social)](https://github.com/vtiger-crm/vtigercrm/stargazers) | VPL | Complete open-source CRM with automated zip-code region assignment (4,000+ line postal code tables) and workflow account distribution. |
 | **[OptaPlanner](https://github.com/optaplanner/optaplanner)** | [![Stars](https://img.shields.io/github/stars/optaplanner/optaplanner?style=social)](https://github.com/optaplanner/optaplanner/stargazers) | Apache-2.0 | AI constraint solver engine capable of optimizing multi-variable sales territory divisions, rep workload balancing, and route planning. |
@@ -96,7 +96,7 @@ Contributions are welcome! Please follow these steps:
 
 1. **Fork** the repository.
 2. Create a new branch for your feature or tool addition.
-3. Add your tool to the appropriate table maintaining **descending sort order** (Valuation for SaaS, Star Count for Open-Source).
+3. Add your tool to the appropriate table maintaining **descending sort order** (Valuation for SaaS, Stars_Count for Open-Source).
 4. Ensure factual descriptions, official links, and clean markdown formatting.
 5. Submit a **Pull Request**!
 
